@@ -13,4 +13,4 @@ Ehhhm yes ... That's actually simple.
 Either you download the source code and then enter in Terminal/CMD:<br>
 ```python3 Engine.py``` (Before that go to the directory where you have the source code) </br>
 
-or, if you use Windows, then just download the .exe <a href="https://github.com/">here</a>.
+or, if you use Windows, then just download the .exe <a href="https://raw.githubusercontent.com/Fidode07/dalle-playground-gui/master/Compiled/DALL-E.exe">here</a>.
