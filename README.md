@@ -23,4 +23,8 @@ Good, but now Google Colab has opened in your browser (Whaaat)??? Yep, that's no
 
 3. the last codeblock (WOW SUPER COOL - I know). Just execute it and wait until the server is started. Then copy the URL that you got and paste it into the GUI.
 
-That's it. There is nothing more to do. Congratulations, you can now tell an AI some nonsense and it will paint it for you.
+That's it. There is nothing more to do. Congratulations, you can now tell an AI some nonsense and it will paint it for you.<br>
+
+
+# 🖼️ Images 🖼️
+<img src="https://raw.githubusercontent.com/Fidode07/dalle-playground-gui/master/Images/gui1.png"/>
