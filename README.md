@@ -1,6 +1,8 @@
 # ℹ️ dalle-playground-gui ℹ️
 </hr>
-You know DALL-E? What would happen if their website is offline? Exactly, you could no longer generate images. This project solves that problem. So I made a GUI for DALL-E via WebView. Not a big project, but still very practical.
+You know DALL-E Playground? What would happen if their website is offline? Exactly, you could no longer generate images. This project solves that problem. So I made a GUI for DALL-E via WebView. Not a big project, but still very practical.
+
+DALL-E Playground was not made by me! You can find the original <a href="https://github.com/saharmor/dalle-playground">here</a>. My mission was just to make a GUI to make it easier to use.
 
 # 👷 How does it works? 👷
 
