@@ -25,6 +25,10 @@ Good, but now Google Colab has opened in your browser (Whaaat)??? Yep, that's no
 
 That's it. There is nothing more to do. Congratulations, you can now tell an AI some nonsense and it will paint it for you.<br>
 
+# ⚠️Important (For Linux users):⚠️
+
+1. GTK or QtPy must be installed
+2. Python Requirements: ```pywebview```
 
 # 🖼️ Images 🖼️
 <img src="https://raw.githubusercontent.com/Fidode07/dalle-playground-gui/master/Images/gui1.png"/>
