@@ -14,3 +14,13 @@ Either you download the source code and then enter in Terminal/CMD:<br>
 ```python3 Engine.py``` (Before that go to the directory where you have the source code) </br>
 
 or, if you use Windows, then just download the .exe <a href="https://raw.githubusercontent.com/Fidode07/dalle-playground-gui/master/Compiled/DALL-E.exe">here</a>.
+
+Good, but now Google Colab has opened in your browser (Whaaat)??? Yep, that's normal. Now you have to do following:
+
+1. execute the first code block at the top (it contains lines like !git clone ...)
+
+2. go to the 2nd codeblock and choose the model you want (The small one is good, because it runs very well). Now execute this codeblock too.
+
+3. the last codeblock (WOW SUPER COOL - I know). Just execute it and wait until the server is started. Then copy the URL that you got and paste it into the GUI.
+
+That's it. There is nothing more to do. Congratulations, you can now tell an AI some nonsense and it will paint it for you.
